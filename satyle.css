@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+.title-head{
+    text-align: center;
+
+}
+.navbar-div{
+
+}
+.log-ico{
+    padding-right: 10px;
+}
+
+.navbar-toggler{
+    outline: 2px solid black;
+    text-align: center;
+    font-size: medium;
+    padding: 10px;
+
+}
+.nav-link{
+    color:black;
+    font-weight: 900;
+}
+.ad-banner{
+    background-color: black;
+}
